@@ -1,0 +1,31 @@
+{
+  "name": "@woden/svelte-nouislider",
+  "version": "1.0.1",
+  "repository": "https://github.com/Woden-app/svelte-nouislider",
+  "main": "lib/index.js",
+  "svelte": "src/index.svelte",
+  "module": "lib/index.mjs",
+  "author": "Woden",
+  "license": "MIT",
+  "devDependencies": {
+    "@rollup/plugin-commonjs": "^14.0.0",
+    "rollup": "^2.23.0",
+    "rollup-plugin-node-resolve": "^5.2.0",
+    "rollup-plugin-postcss": "^3.1.3",
+    "rollup-plugin-svelte": "^5.2.3",
+    "svelte": "^3.24.0"
+  },
+  "dependencies": {
+    "nouislider": "^14.6.0"
+  },
+  "scripts": {
+    "build": "rollup -c"
+  },
+  "files": [
+    "src",
+    "lib"
+  ],
+  "keywords": [
+    "svelte"
+  ]
+}
