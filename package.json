@@ -1,11 +1,11 @@
 {
-  "name": "@woden/svelte-nouislider",
-  "version": "1.0.1",
-  "repository": "https://github.com/Woden-app/svelte-nouislider",
+  "name": "@jbfulgencio/svelte-nouislider",
+  "version": "1.0.0",
+  "repository": "https://github.com/jbfulgencio/svelte-nouislider",
   "main": "lib/index.js",
   "svelte": "src/index.svelte",
   "module": "lib/index.mjs",
-  "author": "Woden",
+  "author": "João Batista Fulgencio",
   "license": "MIT",
   "devDependencies": {
     "@rollup/plugin-commonjs": "^14.0.0",
